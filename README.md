@@ -1,6 +1,11 @@
-[![MasterHead](https://webcoder.co.in/wp-content/uploads/2021/04/website.gif
-)](
-)
+![GIF Title](https://github.com/Pujakumari1202/pujakumari1202/blob/main/KIRoKAZE.gif)
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Kanika Sen</h1>
 <h3 align="center">A web developer from India. I am pursuing B.Tech. in CSE(AIML) at UNIVERSITY OF ENGINEERING AND MANAGEMENT, KOLKATA.</h3>
 <img align="right" width="400" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif">
